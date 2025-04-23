@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Griffin-CPU")(type "KiCad")(uri "/home/jgrip/Hardware/own/griffin-libs/symbols/Griffin-CPU.kicad_sym")(options "")(descr ""))
+  (lib (name "Retro6502")(type "KiCad")(uri "${KIPRJMOD}/Retro6502.kicad_sym")(options "")(descr ""))
+)
