@@ -1,3 +1,4 @@
 Outputs/*.csv
 Outputs/*.zip
 *-backups
+.~lock.*
