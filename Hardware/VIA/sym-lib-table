@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Retro6502")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/Retro6502.kicad_sym")(options "")(descr ""))
-  (lib (name "Griffin-IO")(type "KiCad")(uri "C:/Hardware/Own/griffin-libs/symbols/Griffin-IO.kicad_sym")(options "")(descr ""))
-)

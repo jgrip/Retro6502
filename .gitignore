@@ -1,8 +1,0 @@
-Outputs/*.csv
-Outputs/*.zip
-*-backups
-.~lock.*
-*.lck
-3DxService.log
-_autosave*
-*auto_saved_files*
