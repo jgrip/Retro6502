@@ -20,6 +20,7 @@ uart_isr_rhr = $01
 vdc = $0900
 vdc_addr = vdc + 0
 vdc_data = vdc + 1
+uart_isr_thr = $02
 
 
 
